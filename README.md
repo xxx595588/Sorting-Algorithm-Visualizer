@@ -1,2 +1,2 @@
 # Sorting Algorithm Visualizer
-![sorting](https://user-images.githubusercontent.com/61955371/136677774-28edc1b8-5a65-4102-95fb-0e5150e84602.gif)
+![sorting](https://user-images.githubusercontent.com/61955371/136678071-391dab5d-e0d7-4c07-a9fe-3157ebc34499.gif)
