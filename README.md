@@ -7,4 +7,4 @@
 
 * Quick sort
 
-![sorting](https://user-images.githubusercontent.com/61955371/136678071-391dab5d-e0d7-4c07-a9fe-3157ebc34499.gif)
+![quick](https://user-images.githubusercontent.com/61955371/136715204-cfba7602-61df-43d0-bcad-8fb22cd1b808.gif)
